@@ -196,4 +196,7 @@ footer a { color: var(--ink-2); font-weight: 600; }
   .phone.side { display: none; }
   .phone { width: 70%; }
   .brand span { display: none; }
+  .nav-links { gap: 0; flex-wrap: nowrap; }
+  .nav-links a { padding: 6px 8px; font-size: 0.85rem; }
+  .btn { padding: 13px 20px; font-size: 0.95rem; white-space: nowrap; }
 }
